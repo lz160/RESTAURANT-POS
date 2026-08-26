@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant POS 权限管理备份。",
+  "description": "无座茶饮与快餐业态扫码点餐SaaS系统与智能KDS出餐调度平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
